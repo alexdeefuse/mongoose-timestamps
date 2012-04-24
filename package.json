@@ -1,0 +1,7 @@
+{
+  "author": "Alex Ghiu <alex@deefuse.com>",
+  "name": "mongoose-timestamps",
+  "description": "add created and edited properties for document",
+  "version": "0.0.1",
+  "dependencies": {}
+}
